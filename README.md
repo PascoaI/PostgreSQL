@@ -22,5 +22,5 @@ O objetivo deste projeto é fornecer as respostas para as perguntas solicitadas,
 
 ## Como Usar
 
-1. Importe o arquivo `queries.sql` para seu banco de dados.
-2. Consulte o arquivo `explicacoes.md` para entender cada parte do código SQL.
+1. Importe o arquivo **queries.sql** para seu banco de dados.
+2. Consulte o arquivo **explicacoes.md** para entender cada parte do código SQL.
