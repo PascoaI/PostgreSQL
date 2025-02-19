@@ -3,7 +3,7 @@
 Este repositório contém as soluções para as questões do teste técnico de SQL, focando em consultas sobre um banco de dados de vendas, clientes, pedidos e funcionários.
 
 ## Estrutura do Repositório
-
+- **tabelas.sql**: Contém todas as tabelas informadas no teste técnico.
 - **queries.sql**: Contém todas as queries solicitadas no teste técnico.
 - **explicacoes.md**: Documento detalhado com explicações sobre cada query, incluindo conceitos difíceis e o objetivo de cada uma.
 - **Query SQL - Ilustrado com o SQL Fiddle.pdf**: Contém as queries solicitadas, com as ilustrações do projeto sendo rodadas no SQL FIDDLE.
